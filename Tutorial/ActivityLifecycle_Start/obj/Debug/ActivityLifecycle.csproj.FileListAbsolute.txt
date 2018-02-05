@@ -1,0 +1,38 @@
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\bin\Debug\ActivityLifecycle.dll
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\bin\Debug\ActivityLifecycle.pdb
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\bin\Debug\ActivityLifecycle.ActivityLifecycle.apk
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\bin\Debug\ActivityLifecycle.ActivityLifecycle-Signed.apk
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\ActivityLifecycle.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\ActivityLifecycle.dll
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\ActivityLifecycle.pdb
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\android\bin\ActivityLifecycle.ActivityLifecycle.apk
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\res\layout\main.xml
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\res\values\strings.xml
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\res\drawable\icon.png
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\R.cs.flag
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\uploadflags.txt
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\bin\Debug\ActivityLifecycle.dll.mdb
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\android\assets\ActivityLifecycle.dll.mdb
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\obj\Debug\ActivityLifecycle.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\Android\Lab 3\Tutorial\ActivityLifecycle_Start\bin\Debug\ActivityLifecycle.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\ActivityLifecycle.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
